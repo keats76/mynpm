@@ -1,0 +1,24 @@
+{
+  "name": "@keats76/mynpm",
+  "version": "1.0.0",
+  "description": "A starter project to play with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keats76/mynpm.git"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "javascript"
+  ],
+  "author": "Michael White (keats76)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keats76/mynpm/issues"
+  },
+  "homepage": "https://github.com/keats76/mynpm#readme"
+}
